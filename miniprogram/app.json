@@ -62,16 +62,17 @@
     "pages/test1/test1"
   ],
   "window": {
-    "backgroundColor": "#f1f1f1",
+    "backgroundColor": "#ffffff",
     "backgroundTextStyle": "dark",
-    "navigationBarBackgroundColor": "#00C176",
-    "navigationBarTitleText": "旅游景区门户小程序",
-    "navigationBarTextStyle": "white"
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "码上游临潼游",
+    "navigationBarTextStyle": "black",
+    "homeButton":true
   },
   "tabBar": {
     "custom": false,
-    "backgroundColor": "#FFFFFF",
-    "color": "#999999",
+    "backgroundColor": "#ffffff",
+    "color": "#8a8a8a",
     "selectedColor": "#f4260c",
     "list": [
       {

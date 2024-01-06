@@ -1,8 +1,8 @@
 {
-	"usingComponents": { 
-		"cmpt-swiper": "/cmpts/public/swiper/swiper_cmpt"
-	},  
-	"enablePullDownRefresh": true, 
-	"navigationStyle": "custom",
-	"navigationBarTitleText": "首页"
+  "usingComponents": {
+    "cmpt-swiper": "/cmpts/public/swiper/swiper_cmpt"
+  },
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "首页"
 }

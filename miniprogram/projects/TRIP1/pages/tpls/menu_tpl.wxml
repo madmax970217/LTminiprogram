@@ -22,7 +22,7 @@
         src="/projects/TRIP1/images/tabbar/home{{curMenu=='home_index'?'_cur':''}}.png"
       />
       <view class="tab-text {{curMenu=='home_index'?'menu-project':''}}"
-        >首页111</view
+        >首页</view
       >
     </view>
     <view
@@ -68,11 +68,12 @@
         src="/projects/TRIP1/images/tabbar/gong{{curMenu=='album_index'?'_cur':''}}.png"
       />
       <view class="tab-text {{curMenu=='album_index'?'menu-project':''}}"
-        >攻略</view
+        >订单列表</view
       >
     </view>
 
     <view
+      v-if="false"
       class="tab-bar-item"
       bindtap="url"
       data-type="relaunch"
