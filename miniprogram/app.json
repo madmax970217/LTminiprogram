@@ -72,7 +72,7 @@
     "custom": false,
     "backgroundColor": "#FFFFFF",
     "color": "#999999",
-    "selectedColor": "#00C176",
+    "selectedColor": "#f4260c",
     "list": [
       {
         "pagePath": "projects/TRIP1/pages/default/index/default_index",
@@ -88,15 +88,9 @@
       },
       {
         "pagePath": "projects/TRIP1/pages/album/index/album_index",
-        "text": "攻略",
+        "text": "订单列表",
         "iconPath": "/projects/TRIP1/images/tabbar/gong.png",
         "selectedIconPath": "/projects/TRIP1/images/tabbar/gong_cur.png"
-      },
-      {
-        "pagePath": "projects/TRIP1/pages/about/service/about_service",
-        "text": "服务",
-        "iconPath": "/projects/TRIP1/images/tabbar/service.png",
-        "selectedIconPath": "/projects/TRIP1/images/tabbar/service_cur.png"
       },
       {
         "pagePath": "projects/TRIP1/pages/my/index/my_index",
